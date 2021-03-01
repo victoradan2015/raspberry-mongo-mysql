@@ -1,0 +1,53 @@
+23:23:43
+23:23:57
+23:31:11
+hhh22.0dd28.0
+hhh21.0dd27.9
+Humedad: 21.0% Temperatura: 27.9C. Hora:23:34:09
+Humedad: 22.0% Temperatura: 28.1C. Hora:23:34:28
+Humedad: 22.0% Temperatura: 28.1C. Hora:23:38:16
+Humedad: 21.0% Temperatura: 27.9C. Hora:23:44:29
+Humedad: 21.0% Temperatura: 27.9C. Hora:23:44:46
+Humedad: 21.0% Temperatura: 28.1C. Hora:23:47:12
+Humedad: 21.0% Temperatura: 28.0C. Hora:23:47:29
+Humedad: 22.0% Temperatura: 28.1C. Hora:23:48:02
+Humedad: 21.0% Temperatura: 27.7C. Hora:23:49:36
+Humedad: 21.0% Temperatura: 27.8C. Hora:23:51:06
+Humedad: 21.0% Temperatura: 27.7C. Hora:23:51:12
+Humedad: 21.0% Temperatura: 27.8C. Hora:23:51:20
+Humedad: 22.0% Temperatura: 28.0C. Hora:23:54:10
+Humedad: 21.0% Temperatura: 27.8C. Hora:23:59:50
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:00:35
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:01:53
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:04:32
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:04:43
+Humedad: 21.0% Temperatura: 28.0C. Hora:00:06:30
+Humedad: 21.0% Temperatura: 27.8C. Hora:00:07:39
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:07:56
+Humedad: 21.0% Temperatura: 28.0C. Hora:00:08:50
+Humedad: 21.0% Temperatura: 28.0C. Hora:00:09:39
+Humedad: 21.0% Temperatura: 28.1C. Hora:00:10:03
+Humedad: 21.0% Temperatura: 28.1C. Hora:00:10:10
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:10:17
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:10:34
+Humedad: 21.0% Temperatura: 27.6C. Hora:00:18:30
+Humedad: 21.0% Temperatura: 27.8C. Hora:00:18:52
+Humedad: 21.0% Temperatura: 27.7C. Hora:00:24:15
+Humedad: 21.0% Temperatura: 27.8C. Hora:00:26:10
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:27:51
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:28:37
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:29:28
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:29:44
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:30:04
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:30:11
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:31:05
+Humedad: 21.0% Temperatura: 27.9C. Hora:00:31:43
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:35:45
+Humedad: 22.0% Temperatura: 28.1C. Hora:00:37:41
+Humedad: 22.0% Temperatura: 28.0C. Hora:00:39:46
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:40:05
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:42:07
+Humedad: 20.0% Temperatura: 27.9C. Hora:00:43:14
+Humedad: 21.0% Temperatura: 27.8C. Hora:00:44:11
+Humedad: 21.0% Temperatura: 27.5C. Hora:01:13:26
+Humedad: 21.0% Temperatura: 27.5C. Hora:01:13:40
